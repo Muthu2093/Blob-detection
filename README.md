@@ -2,4 +2,4 @@
 Detect blobs on a given image #MATLAB
 
 BlobDetector.m is the mail file
-Refer Writeup for details of the implementation
+\nRefer Writeup for details of the implementation
